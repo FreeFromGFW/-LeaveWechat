@@ -7,7 +7,7 @@
 ## 微信提供的讨论幻觉
 
 # 离开微信，去哪儿？
-telegram
+## telegram 介绍
 
 ## telegram 使用
 ### 加好友
